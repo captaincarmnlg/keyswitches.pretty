@@ -1,0 +1,31 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Reversible Keyswitch Kicad Library",
+    "description": "Keyboard switch footprint library",
+    "description_full": "KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets ",
+    "identifier": "com.github.daprice.keyswitches-kicad-library",
+    "type": "library",
+    "author": {
+        "name": "Dale Price",
+        "contact": {
+            "email": "@dale_price@mastodon.online"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "Github": "https://github.com/daprice/keyswitches.pretty"
+    },
+    "tags": [
+        "footprint",
+        "library",
+        "keyswitch",
+        "keyboard"
+    ],
+    "versions": [
+        {
+            "version": "2.1",
+            "status": "stable",
+            "kicad_version": "5.1"
+        }
+    ]
+}
